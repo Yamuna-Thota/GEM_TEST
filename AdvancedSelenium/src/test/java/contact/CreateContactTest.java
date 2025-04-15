@@ -16,7 +16,7 @@ import pomRepo.HomePage;
 public class CreateContactTest extends BaseClass {
 	@Test(groups = "SmokeTesting")
 	public void createContactTest() throws Throwable {
-pullback
+
 		// File_Utility kp = new File_Utility();
 		Excel_Utility elib = new Excel_Utility();
 		
